@@ -7,7 +7,7 @@
 <br>
 
 ## 읽은 책
-📒 CleanCode (로버트 C. 마틴, 인사이트) 👉 [리포지토리 가기]() 👉 [블로그](https://alkhwa-113.tistory.com/category/%EC%B1%85%EC%9D%BD%EA%B8%B0/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C)
+📒 CleanCode (로버트 C. 마틴, 인사이트) 👉 [리포지토리]() 👉 [블로그](https://alkhwa-113.tistory.com/category/%EC%B1%85%EC%9D%BD%EA%B8%B0/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C)
 
 <br>
 <br>
