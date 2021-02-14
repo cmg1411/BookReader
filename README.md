@@ -6,7 +6,7 @@
 <br>
 
 ## 읽은 책
-📒 CleanCode 🏖 [리포지토리 가기]()
+📒 CleanCode 🏖 [리포지토리 가기]()  
 
 <br>
 <br>
@@ -14,13 +14,13 @@
 
 ## 읽는 중
 
-📒 Effective Java 3E 🏖 [리포지토리 가기](https://github.com/cmg1411/effectiveJava)
+📒 Effective Java 3E 🏖 [리포지토리 가기](https://github.com/cmg1411/effectiveJava)  
 
 <br>
 <br>
 <br>
 
 ## 읽을 책
-📒 객체지향의 사실과 오해
-📒 스프링 인 액션
-📒 토비의 스프링 3.1
+📒 객체지향의 사실과 오해  
+📒 스프링 인 액션  
+📒 토비의 스프링 3.1  
