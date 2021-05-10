@@ -17,7 +17,7 @@
 ## 읽는 중
 
 📒 객체지향의 사실과 오해  
-📒 TDD by Example 
+📒 TDD by Example  
 📒 Kotlin In Action
 
 
