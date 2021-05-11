@@ -31,4 +31,5 @@
 📒 오브젝트  
 📒 리펙토링  
 📒 Real MYSQL  
-📒 DevOps와 SE를 위한 리눅스 커널 이야기
+📒 DevOps와 SE를 위한 리눅스 커널 이야기  
+📒 JUnit in Action
